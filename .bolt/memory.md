@@ -19,8 +19,9 @@
 - Bolt's Version History (clock icon in header) is the sole source of truth for changes made inside Bolt.
 - Any comparison between Bolt files and an external GitHub repo must be done outside Bolt.
 - User confirmed Bolt code is the most up-to-date version and wants it pushed to GitHub before continuing work.
+- GitHub sync is now active (green light on GitHub icon); Bolt code is mirroring to GitHub.
 
 ## Open questions & assumptions
 
-- Whether the user has successfully connected GitHub and created/pushed the repo yet.
-- Name and visibility (public/private) of the intended GitHub repo.
+- Name and visibility (public/private) of the GitHub repo.
+- What the user wants to work on next.
